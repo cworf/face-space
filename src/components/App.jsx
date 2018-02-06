@@ -6,8 +6,9 @@ import NewsFeed from "./NewsFeed";
 import FollowSuggestions from "./FollowSuggestions";
 
 function App(){
+
   return (
-    <div class="main-grid">
+    <div>
       <Navbar />
       <UserMeta />
       <TrendingFeed />
