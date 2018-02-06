@@ -1,10 +1,10 @@
-import React from "react";
+import React from 'react';
 
 function TweetButton(){
   return (
-<div>
-  <button>Tweet</button>
-</div>
+    <div>
+      <button>Tweet</button>
+    </div>
 
   );
 }

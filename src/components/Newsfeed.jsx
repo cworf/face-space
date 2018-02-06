@@ -1,11 +1,11 @@
-import React from "react";
-import NewsEvent from "./NewsEvent";
+import React from 'react';
+import NewsEvent from './NewsEvent';
 
 function NewsFeed(){
   return (
-<div>
-  <NewsEvent />
-</div>
+    <div>
+      <NewsEvent />
+    </div>
 
   );
 }
