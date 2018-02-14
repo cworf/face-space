@@ -9,6 +9,11 @@ function App(){
 
   return (
     <div>
+      <style jsx global>{`
+          body {
+            font-family: roboto, sans-serif;
+          }
+        `}</style>
       <Navbar />
       <UserMeta />
       <TrendingFeed />
